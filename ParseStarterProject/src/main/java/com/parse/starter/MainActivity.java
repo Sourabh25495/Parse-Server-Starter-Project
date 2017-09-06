@@ -70,8 +70,6 @@ public class MainActivity extends AppCompatActivity {
         });
 */
 
-// sourabhuk254 password
-        //sHreyas password1
 
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
   }
