@@ -180,6 +180,10 @@
         "source": "/Users/sourabhkulkarni/.android/build-cache/cc60c3471a6fd6e4471e64c673704ee854a8026c/output/res/drawable/cast_ic_expanded_controller_rewind30.xml"
     },
     {
+        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable/inst.png",
+        "source": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/src/debug/res/drawable/inst.png"
+    },
+    {
         "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_mini_controller_gradient_light.xml",
         "source": "/Users/sourabhkulkarni/.android/build-cache/cc60c3471a6fd6e4471e64c673704ee854a8026c/output/res/drawable/cast_mini_controller_gradient_light.xml"
     },
