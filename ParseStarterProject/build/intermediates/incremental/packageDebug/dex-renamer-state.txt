@@ -1,4 +1,4 @@
-#Tue Sep 12 23:38:54 EDT 2017
+#Tue Sep 12 23:50:16 EDT 2017
 base.0=/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5444db8f439c7a5604fb84b3db3532a5454203da
 renamed.1=classes2.dex
 renamed.0=classes.dex

@@ -24,12 +24,12 @@
         "source": "/Users/sourabhkulkarni/.android/build-cache/fef5b488f0999421ddee5d07f3eb59536a747ee0/output/res/drawable-hdpi-v4/common_ic_googleplayservices.png"
     },
     {
-        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4/quantum_ic_skip_previous_grey600_36.png",
-        "source": "/Users/sourabhkulkarni/.android/build-cache/cc60c3471a6fd6e4471e64c673704ee854a8026c/output/res/drawable-hdpi-v4/quantum_ic_skip_previous_grey600_36.png"
-    },
-    {
         "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4/places_ic_clear.png",
         "source": "/Users/sourabhkulkarni/.android/build-cache/88a7497c1a3930e83cea56f340d5e63469b7610d/output/res/drawable-hdpi-v4/places_ic_clear.png"
+    },
+    {
+        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4/quantum_ic_skip_previous_grey600_36.png",
+        "source": "/Users/sourabhkulkarni/.android/build-cache/cc60c3471a6fd6e4471e64c673704ee854a8026c/output/res/drawable-hdpi-v4/quantum_ic_skip_previous_grey600_36.png"
     },
     {
         "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
@@ -68,24 +68,24 @@
         "source": "/Users/sourabhkulkarni/.android/build-cache/cc60c3471a6fd6e4471e64c673704ee854a8026c/output/res/drawable-hdpi-v4/quantum_ic_play_arrow_white_24.png"
     },
     {
-        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
-        "source": "/Users/sourabhkulkarni/.android/build-cache/c68b18ab4a3ad92a20f8863d401beb24f131ddec/output/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/sourabhkulkarni/.android/build-cache/c68b18ab4a3ad92a20f8863d401beb24f131ddec/output/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
         "source": "/Users/sourabhkulkarni/.android/build-cache/c68b18ab4a3ad92a20f8863d401beb24f131ddec/output/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "/Users/sourabhkulkarni/.android/build-cache/c68b18ab4a3ad92a20f8863d401beb24f131ddec/output/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
-        "source": "/Users/sourabhkulkarni/.android/build-cache/fef5b488f0999421ddee5d07f3eb59536a747ee0/output/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/sourabhkulkarni/.android/build-cache/c68b18ab4a3ad92a20f8863d401beb24f131ddec/output/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4/quantum_ic_stop_grey600_48.png",
         "source": "/Users/sourabhkulkarni/.android/build-cache/cc60c3471a6fd6e4471e64c673704ee854a8026c/output/res/drawable-hdpi-v4/quantum_ic_stop_grey600_48.png"
+    },
+    {
+        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/sourabhkulkarni/.android/build-cache/fef5b488f0999421ddee5d07f3eb59536a747ee0/output/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
         "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4/quantum_ic_volume_off_grey600_36.png",

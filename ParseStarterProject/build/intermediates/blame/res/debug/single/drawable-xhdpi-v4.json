@@ -4,12 +4,12 @@
         "source": "/Users/sourabhkulkarni/.android/build-cache/cc60c3471a6fd6e4471e64c673704ee854a8026c/output/res/drawable-xhdpi-v4/quantum_ic_play_arrow_grey600_48.png"
     },
     {
-        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/quantum_ic_play_circle_filled_white_36.png",
-        "source": "/Users/sourabhkulkarni/.android/build-cache/cc60c3471a6fd6e4471e64c673704ee854a8026c/output/res/drawable-xhdpi-v4/quantum_ic_play_circle_filled_white_36.png"
-    },
-    {
         "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png",
         "source": "/Users/sourabhkulkarni/.android/build-cache/c68b18ab4a3ad92a20f8863d401beb24f131ddec/output/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/quantum_ic_play_circle_filled_white_36.png",
+        "source": "/Users/sourabhkulkarni/.android/build-cache/cc60c3471a6fd6e4471e64c673704ee854a8026c/output/res/drawable-xhdpi-v4/quantum_ic_play_circle_filled_white_36.png"
     },
     {
         "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_plusone_standard_off_client.png",
@@ -32,20 +32,20 @@
         "source": "/Users/sourabhkulkarni/.android/build-cache/c68b18ab4a3ad92a20f8863d401beb24f131ddec/output/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/quantum_ic_play_arrow_white_24.png",
-        "source": "/Users/sourabhkulkarni/.android/build-cache/cc60c3471a6fd6e4471e64c673704ee854a8026c/output/res/drawable-xhdpi-v4/quantum_ic_play_arrow_white_24.png"
-    },
-    {
         "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
         "source": "/Users/sourabhkulkarni/.android/build-cache/fef5b488f0999421ddee5d07f3eb59536a747ee0/output/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png"
     },
     {
-        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/quantum_ic_forward_30_white_36.png",
-        "source": "/Users/sourabhkulkarni/.android/build-cache/cc60c3471a6fd6e4471e64c673704ee854a8026c/output/res/drawable-xhdpi-v4/quantum_ic_forward_30_white_36.png"
+        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/quantum_ic_play_arrow_white_24.png",
+        "source": "/Users/sourabhkulkarni/.android/build-cache/cc60c3471a6fd6e4471e64c673704ee854a8026c/output/res/drawable-xhdpi-v4/quantum_ic_play_arrow_white_24.png"
     },
     {
         "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/cast_ic_notification_2.png",
         "source": "/Users/sourabhkulkarni/.android/build-cache/7eced940e5382cb89f5729fe63bcbb68ed32d1bb/output/res/drawable-xhdpi-v4/cast_ic_notification_2.png"
+    },
+    {
+        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/quantum_ic_forward_30_white_36.png",
+        "source": "/Users/sourabhkulkarni/.android/build-cache/cc60c3471a6fd6e4471e64c673704ee854a8026c/output/res/drawable-xhdpi-v4/quantum_ic_forward_30_white_36.png"
     },
     {
         "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/quantum_ic_replay_30_grey600_36.png",
@@ -60,24 +60,24 @@
         "source": "/Users/sourabhkulkarni/.android/build-cache/fef5b488f0999421ddee5d07f3eb59536a747ee0/output/res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
     },
     {
-        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
-        "source": "/Users/sourabhkulkarni/.android/build-cache/fef5b488f0999421ddee5d07f3eb59536a747ee0/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
-    },
-    {
         "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_ic_googleplayservices.png",
         "source": "/Users/sourabhkulkarni/.android/build-cache/fef5b488f0999421ddee5d07f3eb59536a747ee0/output/res/drawable-xhdpi-v4/common_ic_googleplayservices.png"
     },
     {
-        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
-        "source": "/Users/sourabhkulkarni/.android/build-cache/fef5b488f0999421ddee5d07f3eb59536a747ee0/output/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
+        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/sourabhkulkarni/.android/build-cache/fef5b488f0999421ddee5d07f3eb59536a747ee0/output/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/quantum_ic_closed_caption_white_36.png",
+        "source": "/Users/sourabhkulkarni/.android/build-cache/cc60c3471a6fd6e4471e64c673704ee854a8026c/output/res/drawable-xhdpi-v4/quantum_ic_closed_caption_white_36.png"
     },
     {
         "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_plusone_small_off_client.png",
         "source": "/Users/sourabhkulkarni/.android/build-cache/7dc5c175a9b98161f95a39ca1a8a92797284d844/output/res/drawable-xhdpi-v4/ic_plusone_small_off_client.png"
     },
     {
-        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/quantum_ic_closed_caption_white_36.png",
-        "source": "/Users/sourabhkulkarni/.android/build-cache/cc60c3471a6fd6e4471e64c673704ee854a8026c/output/res/drawable-xhdpi-v4/quantum_ic_closed_caption_white_36.png"
+        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/sourabhkulkarni/.android/build-cache/fef5b488f0999421ddee5d07f3eb59536a747ee0/output/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
     },
     {
         "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/quantum_ic_volume_off_grey600_36.png",

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Sep 12 23:38:53 EDT 2017
+#Tue Sep 12 23:50:13 EDT 2017
 210.set=ANDROID_RESOURCE
 282.file=/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/resources-debug.ap_/res/color/switch_thumb_material_dark.xml
 14.set=ANDROID_RESOURCE
