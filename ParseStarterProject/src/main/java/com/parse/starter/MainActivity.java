@@ -11,9 +11,13 @@ import android.os.Bundle;
 import android.support.annotation.BoolRes;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.KeyEvent;
 import android.view.View;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageView;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -29,10 +33,19 @@ import com.parse.SignUpCallback;
 import java.util.List;
 
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+public class MainActivity extends AppCompatActivity implements View.OnClickListener, View.OnKeyListener {
 
     TextView ChangeSignUpModeTextVieW;
     Boolean signUpModeActive= true;
+    EditText passwordEditText;
+
+    @Override
+    public boolean onKey(View view, int i, KeyEvent keyEvent) {
+        if(i==keyEvent.KEYCODE_ENTER&& keyEvent.getAction()==keyEvent.ACTION_DOWN){
+            signUp(view);
+        }
+        return false;
+    }
 
     @Override
     public void onClick(View view) {
@@ -49,12 +62,19 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 signupButton.setText("Sign up");
                 ChangeSignUpModeTextVieW .setText("Or, Login");
             }
+        }else if(view.getId()==R.id.backRelativeLayout||view.getId()==R.id.LogoimageView){
+
+
+            InputMethodManager inputMethodManager=(InputMethodManager)getSystemService(INPUT_METHOD_SERVICE);
+            inputMethodManager.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(),0);
+
+
         }
     }
 
     public  void signUp(View view){
         EditText usernameEditText=(EditText)findViewById(R.id.UsernameEditText);
-        EditText passwordEditText=(EditText)findViewById(R.id.PasswordEdittext);
+
 
         if(usernameEditText.getText().toString().matches("")||passwordEditText.getText().toString().matches("")){
             Toast.makeText(MainActivity.this,"Enter username/password",Toast.LENGTH_LONG).show();
@@ -97,9 +117,21 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         ChangeSignUpModeTextVieW =(TextView) findViewById(R.id.ChangeSignupModetextView);
         ChangeSignUpModeTextVieW.setOnClickListener(this);
 
+        RelativeLayout backgroundRelativeLayout=(RelativeLayout)findViewById(R.id.backRelativeLayout);
+        ImageView logoImageView=(ImageView)findViewById(R.id.LogoimageView);
+        backgroundRelativeLayout.setOnClickListener(this);
+        logoImageView.setOnClickListener(this);
+
+
+
+        passwordEditText=(EditText)findViewById(R.id.PasswordEdittext);
+        passwordEditText.setOnKeyListener(this);
+
+
 
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
   }
+
 
 }
 
