@@ -4,6 +4,10 @@
         "source": "/Users/sourabhkulkarni/.android/build-cache/c68b18ab4a3ad92a20f8863d401beb24f131ddec/output/res/layout/notification_media_action.xml"
     },
     {
+        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/activity_user_feed.xml",
+        "source": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_user_feed.xml"
+    },
+    {
         "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
         "source": "/Users/sourabhkulkarni/.android/build-cache/c68b18ab4a3ad92a20f8863d401beb24f131ddec/output/res/layout/abc_activity_chooser_view.xml"
     },
@@ -60,6 +64,10 @@
         "source": "/Users/sourabhkulkarni/.android/build-cache/c68b18ab4a3ad92a20f8863d401beb24f131ddec/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
+        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/activity_main2.xml",
+        "source": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_main2.xml"
+    },
+    {
         "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/Users/sourabhkulkarni/.android/build-cache/c68b18ab4a3ad92a20f8863d401beb24f131ddec/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
@@ -98,6 +106,10 @@
     {
         "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
         "source": "/Users/sourabhkulkarni/.android/build-cache/88a7497c1a3930e83cea56f340d5e63469b7610d/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/activity_user_list.xml",
+        "source": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_user_list.xml"
     },
     {
         "merged": "/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
