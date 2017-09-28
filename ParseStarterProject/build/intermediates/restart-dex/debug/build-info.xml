@@ -6,7 +6,7 @@
     density="xhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1506442716049"
+    timestamp="1506443105123"
     token="8662801508240566526"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -22,6 +22,10 @@
     <task
         name="verifier"
         duration="0" />
+
+    <artifact
+        location="/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -66,7 +70,11 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1506442716049"
-        verifier="COLD_SWAP_REQUESTED" />
+        timestamp="1506443105123"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/sourabhkulkarni/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
 
 </instant-run>
